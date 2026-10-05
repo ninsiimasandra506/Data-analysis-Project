@@ -216,7 +216,7 @@ Data Analyst | Power BI Developer | AI & Data Researcher
 
 📧 Ninsiimasandra506@gmail.com
 
-🔗  linkedin.com/in/sandraninsiima
+🔗  www.linkedin.com/in/sandraninsiima
 
 🔗 https://github.com/ninsiimasandra506/Data-analysis-Project
 
